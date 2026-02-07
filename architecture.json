@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_confessional_class_struggle",
+  "title": "The Debt That Binds",
+  "tagline": "In the shadow of the Acropolis, a young enforcer learns that in Athens, every man is either a creditor or a slave.",
+  "target_words": 70000,
+  "actual_words": 75653,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Morality of Debt",
+    "Predatory Economics in a Democratic Polis",
+    "The Violence of Social Machinery",
+    "Consciousness Awakening in an Enforcer"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Lesson in Geometry",
+      "words": 3150
+    },
+    {
+      "ch": 2,
+      "title": "The Ledger of Flesh",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Walls of the Ceramicus",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "Philon's Philosophy",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Wharf of Lykos",
+      "words": 3300
+    },
+    {
+      "ch": 6,
+      "title": "Seven Souls",
+      "words": 3400
+    },
+    {
+      "ch": 7,
+      "title": "The Fuller's Son",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "Oil for the Engine",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "A Different Athens",
+      "words": 2800
+    },
+    {
+      "ch": 10,
+      "title": "The Iron Beneath the Brine",
+      "words": 3250
+    },
+    {
+      "ch": 11,
+      "title": "Brasidas's Silence",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "The Agora's Shadow",
+      "words": 3150
+    },
+    {
+      "ch": 13,
+      "title": "The Unpaid Price",
+      "words": 3350
+    },
+    {
+      "ch": 14,
+      "title": "A Minnow's Glance",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Calculus of Force",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Slave Girl's Name",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "Breaking the Abacus",
+      "words": 3600
+    },
+    {
+      "ch": 18,
+      "title": "The Choice at the Well",
+      "words": 3400
+    },
+    {
+      "ch": 19,
+      "title": "From Claw to Conscience",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "The Debtor's Revolt",
+      "words": 3700
+    },
+    {
+      "ch": 21,
+      "title": "Fire in the Potters' Quarter",
+      "words": 3800
+    },
+    {
+      "ch": 22,
+      "title": "Confronting the Engine",
+      "words": 3650
+    },
+    {
+      "ch": 23,
+      "title": "The Cost of Freedom",
+      "words": 3900
+    },
+    {
+      "ch": 24,
+      "title": "A New Ledger",
+      "words": 2753
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the fish-sauce merchant's daughter, exploring the illness and the terror of her father's debt.",
+      "Draft a monologue by Philon the Lender explaining his economic philosophy to a skeptical Athenian aristocrat.",
+      "Create a scene where Brasidas reflects on his own past and why he enforces the system that enslaved him.",
+      "Write a 'deleted scene' showing a conversation between Xanthias and the slave girl at the well, one year after the novel's events."
+    ],
+    "technical": [
+      "Build an interactive 'Debt Web' visualization showing how characters in the novel are financially and socially entangled.",
+      "Design a text-based game where the player, as Xanthias, must make moral choices in debt collection, with consequences for loyalty, wealth, and freedom."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Aristotle (on political economy and the nature of slavery)",
+      "Euripides (on the psychology of the oppressed and social critique)",
+      "George Orwell (on the mechanics of power and the enforcer's dilemma)",
+      "Upton Sinclair (on exposing the brutal systems underpinning a society)"
+    ]
+  },
+  "cover_prompt": "A young Athenian enforcer, his face a mask of conflicted agony, clutches a debtor's ledger in one hand and a broken shackle in the other, standing at the precipice of a moonlit Athenian rooftop, [Detailed Scene & Context: the illuminated Parthenon dominates the smoky skyline below, while in the narrow, shadowed streets, scenes of silent financial coercion and despair unfold like a tragic frieze], [Artistic Style & Medium: in the stark, emotionally charged and classically informed style of Anselm Kiefer, rendered with thick, textural impasto and mixed media elements on cracked plaster], [Composition & Camera: book cover framing, a tight, centered portrait composition from a low angle that makes the enforcer monumental against the city, his personal turmoil juxtaposed with the oppressive architecture], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single harsh light source carving his features, palette of burnt umber, oxidized bronze, deep charcoal, and sickly marble white, with a single streak of bloody crimson on the broken metal], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
