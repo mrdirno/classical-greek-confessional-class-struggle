@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The stone was cool against my cheek. Not the clean, dry cool of a temple step, but the damp, greasy chill of a street I’d been pressed against. I could taste the salt of my own blood, the sourness of the gutter, and the ghost of garlic from the taverna two doors down. A sandal, its leather strap frayed, was a hand’s breadth from my eye. My sandal.
@@ -98,6 +100,8 @@ I was the oil in the engine. I was the claw. I was the sword.
 
 And tomorrow, I would go to collect.
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The road to Piraeus was a river of dust and purpose. Carts laden with marble blocks groaned past us, their oxen’s flanks slick with sweat. Farmers drove bleating goats to the city’s butcheries. A group of hoplites in worn armour marched the other way, returning from garrison duty, their faces grimed and tired. We walked in the ruts, Brasidas a steady, silent presence at my side. He carried a thick walking staff of knotted olive wood. I carried the weight of Philon’s instruction.
@@ -193,6 +197,8 @@ Brasidas walked beside me for a hundred paces before he spoke.
 We walked on in silence, back toward the road to Athens. The bag of silver was heavy at my belt. It was the weight of my success, my comprehension. I had been the unblinking eye. I had been the stone.
 
 So why did I feel the gaze of the scholar-slave upon me still? And why did my victory taste of ashes and hay?
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
